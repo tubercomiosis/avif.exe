@@ -1,2 +1,7 @@
 # avif.exe
-I put a lot of effort in this GDI trojan! It terminates svchost so it only works on Windows XP. I'M NOT RESPONSIBLE FOR ANY DAMAGES.
+My new GDI trojan
+> [!CAUTION]
+> I'M NOT RESPONSIBLE FOR ANY DAMAGES MADE USING THIS MALWARE!! IT WILL OVERWRITE THE MBR, DISABLE SYSTEM TOOLS AND TERMINATE SVCHOST!!! FOR FULL SAFETY, RUN THE VERSION WITH THE .GDIOnly BRANCH!
+
+> [!NOTE]
+> Zip password: avifTrojan
